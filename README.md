@@ -1,151 +1,279 @@
-# Visa & Passport Photo Requirements for 190+ Countries (2026)
+# VisaReadyNow — AI Visa & Passport Photo Compliance Tool
 
-AI-powered passport and visa photo compliance — validated against official government
-biometric standards for 190+ countries. No rejections. No guesswork.
+AI-powered passport and visa photo verification system built for applicants worldwide.
 
-👉 **Check your photo free:** https://visareadynow.com
+VisaReadyNow helps users create compliant visa and passport photos by analyzing images against country-specific biometric requirements, dimensions, background rules, and official photo specifications.
 
----
-
-## What It Does
-
-VisaReadyNow is an AI-powered photo compliance tool that:
-
-- Validates your photo against **22+ biometric checkpoints**
-- Auto-fixes background, lighting, face position, and dimensions
-- Supports **190+ countries** with country-specific presets
-- Generates a government-ready digital file + print-ready A4 sheet
-- Processes photos in **under 10 seconds**
-- Offers a **100% acceptance guarantee** (or full refund)
+🌐 Website: https://visareadynow.com
 
 ---
 
-## Supported Countries & Photo Sizes
+# About VisaReadyNow
 
-| Country | Size | Pixels | Background |
-|---------|------|--------|------------|
+VisaReadyNow is an independent software product developed by **Sandeep Maddheshiya**, a full-stack software engineer and founder building AI-powered applications.
+
+The platform was created to solve a common problem faced by visa applicants: understanding and following complex photo requirements across different countries.
+
+Instead of manually checking government specification documents, VisaReadyNow converts published visa photo requirements into automated validation rules that analyze uploaded photos instantly.
+
+---
+
+# Founder & Developer
+
+## Sandeep Maddheshiya
+
+Founder of VisaReadyNow and Founder of **Glyphash**, an AI-first software company building SaaS platforms, automation systems, and custom software solutions.
+
+Sandeep specializes in:
+
+- Full-stack web development
+- AI integrations
+- Computer vision applications
+- Image processing systems
+- Scalable SaaS architecture
+
+Profiles:
+
+- GitHub: https://github.com/sandeepmaddheshiya
+- LinkedIn: https://linkedin.com/in/sandeepmaddheshiya
+
+Other products built by Sandeep:
+
+- VisaReadyNow — https://visareadynow.com
+- PhotoResizer — https://photoresizer.in
+- PhotoResizer US — https://photoresizer.us
+- OneStopRead — https://onestopread.com
+- ZyoraAI — https://zyoraai.com
+- Glyphash — https://glyphash.com
+
+---
+
+# What VisaReadyNow Does
+
+VisaReadyNow provides AI-assisted visa photo checking and preparation:
+
+✅ Validates photos against biometric requirements  
+✅ Checks face position and proportions  
+✅ Detects background issues  
+✅ Verifies image dimensions and quality  
+✅ Creates country-specific photo formats  
+✅ Generates digital and print-ready photos  
+
+The system supports requirements from 190+ countries and regions.
+
+---
+
+# Supported Countries
+
+Examples of supported photo specifications:
+
+| Country | Photo Size | Pixels | Background |
+|---|---|---|---|
 | 🇺🇸 United States | 51×51 mm | 600×600 px | White |
-| 🇬🇧 United Kingdom | 35×45 mm | 827×1063 px | Light grey |
+| 🇬🇧 United Kingdom | 35×45 mm | 827×1063 px | Light background |
 | 🇨🇦 Canada | 50×70 mm | 1181×1654 px | White/light grey |
 | 🇮🇳 India | 35×45 mm | 413×531 px | White |
-| 🇩🇪 Germany (Schengen) | 35×45 mm | 413×531 px | Light grey |
-| 🇦🇺 Australia | 35×45 mm | 1200×1600 px | White/light grey |
-| 🇫🇷 France | 35×45 mm | 413×531 px | Light grey/beige |
+| 🇩🇪 Germany | 35×45 mm | 413×531 px | Light grey |
+| 🇦🇺 Australia | 35×45 mm | Country dependent | White/light background |
 | 🇯🇵 Japan | 35×45 mm | 827×1063 px | White |
-| 🇨🇳 China | 33×48 mm | 390×567 px | White |
-| 🇧🇷 Brazil | 51×51 mm | 600×600 px | White |
 
-[Browse all 190+ countries →](https://visareadynow.com)
+Full requirements:
 
----
-
-## US Visa Photo Requirements (DS-160)
-
-- **Size:** 600×600 pixels (square)
-- **File format:** JPEG
-- **File size:** Under 240 KB
-- **Background:** Plain white or off-white
-- **Expression:** Neutral, eyes open, mouth closed
-- **Head size:** 50–69% of image height
-- **Headwear:** Religious only (full face must be visible)
-- **Glasses:** Not permitted
-
-[Full DS-160 photo guide →](https://visareadynow.com)
+https://visareadynow.com
 
 ---
 
-## What the AI Checks (22+ Biometric Points)
+# AI Photo Validation
 
-**Face & Position**
-- Face height ratio (50–80%)
-- Head tilt / pitch / yaw
-- Eyes open & looking forward
-- Mouth closed, no teeth
-- No glasses detected
+VisaReadyNow analyzes multiple photo quality parameters including:
 
-**Technical Specs**
-- Background color & uniformity
-- Shadow detection (face & background)
-- Pixel dimensions & DPI
-- File format & color space
-- JPEG compression artifacts
-- Photo recency check
+## Face & Position Analysis
+
+- Face height ratio
+- Head positioning
+- Eye visibility
+- Facial orientation
+- Mouth position
+- Glasses detection
+- Face alignment
+
+## Technical Validation
+
+- Image dimensions
+- File format
+- File size
+- Background consistency
+- Lighting conditions
+- Image sharpness
+- Compression quality
 
 ---
 
-## Supported Document Types
+# How It Works
+
+### 1. Upload Your Photo
+
+Upload an image from any device.
+
+Supported formats:
+
+- JPG
+- PNG
+- HEIC
+
+---
+
+### 2. AI Analysis
+
+The system evaluates your image using automated image-processing rules based on published visa photo specifications.
+
+---
+
+### 3. Compliance Report
+
+Users receive feedback about:
+
+- What passes
+- What needs correction
+- Required improvements
+
+---
+
+### 4. Generate Final Photo
+
+Download a prepared visa/passport photo suitable for digital submission or printing.
+
+---
+
+# Technology Behind VisaReadyNow
+
+VisaReadyNow combines:
+
+- Computer vision techniques
+- Image processing algorithms
+- Automated biometric measurement
+- Country-specific rule engines
+- Web-based image processing infrastructure
+
+The platform transforms government-published requirements into machine-readable validation logic.
+
+---
+
+# Research & Verification Methodology
+
+VisaReadyNow references publicly available requirements from official immigration and government sources.
+
+Examples:
+
+- US Department of State — DS-160 Photo Requirements  
+  https://travel.state.gov
+
+- UK Government Passport Photo Guidance  
+  https://www.gov.uk
+
+- Canada Immigration Photo Requirements  
+  https://www.canada.ca
+
+- Australian Passport Office Guidelines  
+  https://www.passports.gov.au
+
+- European Commission Visa Information  
+  https://ec.europa.eu
+
+Requirements are reviewed periodically because government specifications may change.
+
+---
+
+# Supported Documents
+
+Examples include:
 
 - US Visa (DS-160)
 - US Passport
-- DV Lottery / Green Card
+- Diversity Visa Lottery
 - Schengen Visa
-- UK Passport (HM Passport Office)
-- Canada TRV & PR (IRCC)
-- India e-Visa / OCI
-- USCIS (I-485, I-130, and more)
-- K-1 Fiancé Visa
-- H1-B, F1 Student, B1/B2 Visitor
-- Global Entry / State ID
+- UK Passport
+- Canada Visa
+- India e-Visa
+- OCI Applications
+- USCIS Applications
+- Student Visas
+- Visitor Visas
 
 ---
 
-## Common Rejection Reasons (and Fixes)
+# Common Photo Problems Detected
 
-| Rejection Reason | Fix |
-|-----------------|-----|
-| Wrong crop / face too small | Use country-specific preset, validate face position before export |
-| Background shadows | Stand away from wall, face soft light, validate background uniformity |
-| File too large or too small | Resize after crop, export to exact upload range for that application |
-| Glasses glare or reflection | Remove glasses; ensure both eyes are clearly visible |
-| Blurry image | Use rear camera, clean lens, shoot in natural light |
-| Edited face / filters | Never reshape or beautify facial features |
-
----
-
-## How It Works
-
-1. **Upload** your photo (JPG, PNG, or HEIC — any device)
-2. **AI scans** 22+ biometric checkpoints instantly
-3. **Get compliance report** — see exactly what passes and what needs fixing
-4. **Apply AI fix** — one click auto-corrects everything
-5. **Download** your government-ready digital file + print-ready A4 sheet
+| Problem | Solution |
+|-|-|
+| Incorrect crop | Use country-specific photo settings |
+| Wrong face size | Adjust distance and positioning |
+| Background shadows | Use better lighting |
+| Blurry image | Capture a sharper photo |
+| Glasses reflection | Remove glasses where required |
+| Wrong dimensions | Export using required specifications |
 
 ---
 
-## Pricing
+# Pricing
 
-Regional pricing applied for India — 50% lower than US rates.
+VisaReadyNow offers affordable photo processing plans.
 
-| Plan | Credits | Price |
-|------|---------|-------|
-| Single | 1 photo | ₹249 |
-| 5 Pack | 5 photos | ₹699 (~₹149/photo) |
-| 15 Pack | 15 photos | ₹1,699 (~₹113/photo) |
+| Plan | Photos | Price |
+|-|-|-|
+| Single | 1 Photo | ₹249 |
+| Pack | 5 Photos | ₹699 |
+| Premium Pack | 15 Photos | ₹1,699 |
 
-All plans include: AI compliance scan, auto-fix, digital download, print-ready A4, and acceptance guarantee.
+Plans include:
 
----
-
-## Official Sources Referenced
-
-- [US Department of State — DS-160 Photo Requirements](https://travel.state.gov)
-- [GOV.UK / HM Passport Office — Digital Photo Rules](https://gov.uk)
-- [IRCC / Canada.ca — TRV & PR Photo Specifications](https://canada.ca)
-- [Australian Passport Office — Photo Guidelines](https://passports.gov.au)
-- [European Commission — Schengen Visa Overview](https://ec.europa.eu)
-- [India Visa Online — e-Visa Photo Guidelines](https://indianvisaonline.gov.in)
+- AI photo checking
+- Requirement validation
+- Photo preparation
+- Digital download
 
 ---
 
-## Keywords
+# Independent Software Disclaimer
 
-visa photo requirements, passport photo size, us visa photo, ds-160 photo requirements,
-schengen visa photo, uk passport photo, canada visa photo, india passport photo,
-passport photo online, visa photo compliance, biometric photo, photo rejected fix,
-visa photo ai, passport photo maker online, 190 countries visa photo
+VisaReadyNow is an independent software application.
+
+It is not affiliated with any government agency, embassy, immigration department, or passport authority.
+
+The tool helps users prepare photos according to publicly available requirements but does not guarantee visa approval or immigration decisions.
 
 ---
 
-## Live Tool
+# Keywords
 
-🌐 https://visareadynow.com
+visa photo maker  
+passport photo online  
+US visa photo requirements  
+DS-160 photo requirements  
+Schengen visa photo  
+UK passport photo  
+Canada visa photo  
+AI passport photo  
+biometric photo verification  
+visa photo compliance  
+
+---
+
+# Connect
+
+Website:
+https://visareadynow.com
+
+Founder:
+
+Sandeep Maddheshiya
+
+GitHub:
+https://github.com/sandeepmaddheshiya
+
+LinkedIn:
+https://linkedin.com/in/sandeepmaddheshiya
+
+---
+
+Built with AI, computer vision, and modern web technologies.
